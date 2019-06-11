@@ -1,7 +1,7 @@
 import moment from 'moment';
 var math = require('mathjs');
 
-var name = "Bob", time = "today";
+var name = "Ace", time = "today";
 console.log(`Hello ${name}, how are you ${time}?`);
 
 var datetime = moment().format('MMMM Do YYYY, h:mm:ss a');
