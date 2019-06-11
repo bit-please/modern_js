@@ -1,0 +1,3 @@
+var message = "Hello from JavaScript!"
+console.log(message);
+document.querySelector("p").innerText = message;
