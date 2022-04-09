@@ -21,7 +21,7 @@
   "homepage": "https://github.com/bit-please/modern_js#readme",
   "dependencies": {
     "mathjs": "^6.0.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
